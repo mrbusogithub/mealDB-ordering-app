@@ -1,7 +1,5 @@
 # MealDB Ordering App
 
-![MealDB Ordering App](https://github.com/mrbusogithub/mealDB-ordering-app/blob/main/mealdb-app-screenshot.png)
-
 ## Overview
 
 The MealDB Ordering App is a JavaScript application that allows users to interact with The Meal DB API to place and manage orders for chef's favorite meals. It utilizes the `prompt()` and `alert()` functions for user interactions, `fetch` API for consuming the Meal DB API, and `sessionStorage` to store order details.
